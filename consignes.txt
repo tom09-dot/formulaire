@@ -1,0 +1,17 @@
+﻿Réalisez le formulaire présenté dans les fichiers "resultat1.jpg", "resultat2.jpg", "resultat3.jpg".
+
+Pour cela il faut modifier la page index.html et le fichier style.css.
+
+Trouver aussi un moyen pour reproduire exactement les mêmes couleurs que dans l'exemple!
+
+Indications CSS à suivre:
+	Type d'écriture: calibri
+	Image de fond de la page: fond.jpg
+	Couleur d'écriture: blanc
+	Taille du formulaire: 660px et centré
+	Couleur des composants et textes
+		- quand on passe dessus: #CCCCFF
+		- quand on est dedans: #CCFFFF
+	Boutons: écriture en gras
+	Légende: en gras et taille d'écriture à 14pt
+	Couleur de fond du formulaire: #111111
